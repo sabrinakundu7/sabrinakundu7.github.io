@@ -309,7 +309,7 @@ h3 {
 }
 
 .full-height {
-  height: 100vh;
+  height: 50vh;
 }
 
 /* Original */
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #ffb6c1 repeat;
+  background: rgb(242, 203, 203) repeat;
   position: relative;
 }
 
