@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://durgakundu888.github.io
+> https://sabrinakundu7.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/durgakundu888/durgakundu888.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/durgakundu888/durgakundu888.github.io)
